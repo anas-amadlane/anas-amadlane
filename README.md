@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a startup that will provide API integration for 🤫<br>🌱 I’m currently learning Deep learning<br>⚡ I graduated with a MSc in economics<br>⚡ I have strong knowledge in Machine learning theory
+<!--🔭 I’m currently working on a startup that will provide API integration for 🤫<br>🌱 I’m currently learning Deep learning<br>⚡ I graduated with a MSc in economics<br>⚡ I have strong knowledge in Machine learning theory-->
 
 
 ## 🌐 Socials:
